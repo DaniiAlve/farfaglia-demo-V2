@@ -1,0 +1,10 @@
+/* Estilos de la maqueta. Se completa sección por sección. */
+
+.placeholder {
+  min-height: 60vh;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  gap: var(--espacio-1);
+  padding: var(--espacio-4);
+}

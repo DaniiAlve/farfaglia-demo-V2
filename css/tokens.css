@@ -1,0 +1,25 @@
+/* Variables de diseño.
+   Valores PROVISORIOS: se ajustan con los exactos del Figma
+   cuando armemos el header. */
+:root {
+  /* Color */
+  --color-negro: #000000;
+  --color-blanco: #ffffff;
+  --color-rojo: #e60000;
+  --color-gris-fondo: #f4f4f4;
+  --color-gris-texto: #555555;
+
+  /* Tipografía */
+  --fuente-base: "Montserrat", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+
+  /* Espaciado */
+  --espacio-1: 0.5rem;
+  --espacio-2: 1rem;
+  --espacio-3: 1.5rem;
+  --espacio-4: 2.5rem;
+  --espacio-5: 4rem;
+
+  /* Layout (el diseño de Figma tiene 1363 px de ancho, contenido ~1163 px) */
+  --ancho-contenido: 1160px;
+  --radio: 8px;
+}
